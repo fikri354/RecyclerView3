@@ -8,8 +8,9 @@
 ![Alt text](https://github.com/fikri354/RecyclerView3/blob/master/Screenshot_2017-05-05-10-26-58.png)
 ##
 3. Identitas 
-Nama         : Zulfikri Rosyid
-Kelas        : XI RPL 4
-No           : 35
-Asal Sekolah : SMK Telkom Malang
+- Nama         : Zulfikri Rosyid
+- Kelas        : XI RPL 4
+- No           : 35
+- NIS          : 4861/1580.070
+- Asal Sekolah : SMK Telkom Malang
 ##
